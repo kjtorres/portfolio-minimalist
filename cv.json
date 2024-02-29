@@ -1,0 +1,271 @@
+{
+    "basics": {
+      "name": "Kelly Johanna Torres Navarro",
+      "label": "Web Developer",
+      "image": "https://avatars.githubusercontent.com/u/9389396?v=4",
+      "email": "ktingtele@gmail.com",
+      "phone": "",
+      "url": "",
+      "summary": "I'm a Telecommunications Engineer from the Univesity of Pamplona. I have four years of experience in web development with languages like PHP, Python, and Javascript. I have worked on multiple projects where I have worked as a Full Stack Developer, ensuring the application's requirements successfully. I'm interested in learning new technologies and strategies to do better and faster projects where I'm working.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Malta",
+        "countryCode": "MT",
+        "region": "Malta"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "kjtorres",
+          "url": "https://github.com/kjtorres"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "john",
+          "url": "https://www.linkedin.com/in/kellytorresnavarro/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Mayor's Office of Cúcuta",
+        "position": "Engineer in ICT's Office",
+        "url": "https://cucuta.gov.co/",
+        "startDate": "2022-11-09",
+        "endDate": "2023-12-29",
+        "summary": "Fixed applications and build new applications according to the company's needs. Technologies: PHP/Laravel, VueJS, WordPress.",
+        "country": "Colombia",
+        "highlights": [
+          "Started the company"
+        ]
+      },{
+        "name": "ICT Secretary of the Government of Norte de Santander",
+        "position": "Engineer in ICT's Office",
+        "url": "https://nortedesantander.gov.co/",
+        "startDate": "2022-01-28",
+        "endDate": "2023-05-12",
+        "summary": "Building applications to the success of the goals of the Secretary, additionally worked in maintenance of other applications and data network. Technologies: PHP/Laravel, VueJS.",
+        "country": "Colombia",
+        "highlights": [
+          "Started the company"
+        ]
+      },{
+        "name": "Cliptech",
+        "position": "Full Stack Developer",
+        "url": "",
+        "startDate": "2020-10-10",
+        "endDate": "2023-12-31",
+        "summary": "Built applications from collecting requirements until their development and deployment on the server. Technologies: PHP/Laravel, Python/FastAPI, Vue JS, React JS.",
+        "country": "Colombia",
+        "highlights": [
+          "Started the company"
+        ]
+      },{
+        "name": "University of Pamplona",
+        "position": "Teacher of Telecommunications Engineering",
+        "url": "https://www.unipamplona.edu.co/telecomunicaciones/",
+        "startDate": "2018-02-19",
+        "endDate": "2021-12-20",
+        "summary": "I taught DataBases, Web development, and other subjects about networks, lines and means of communication, furthermore instructed degree and social projects for students.",
+        "country": "Colombia",
+        "highlights": [
+          "Started the company"
+        ]
+      },{
+        "name": "Centrales eléctricas de Norte de Santander - CENS",
+        "position": "Network and Database support engineer",
+        "url": "",
+        "startDate": "2016-10-20",
+        "endDate": "2020-02-11",
+        "summary": "During different periods in the company, I handled end-user support and service tickets about the automatized data network, looking for good service quality with quick solutions.",
+        "country": "Colombia",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University of Pamplona",
+      "url": "https://www.unipamplona.edu.co/",
+      "area": "Telecommunications Engineer",
+      "studyType": "Engineer",
+      "startDate": "2011-02-14",
+      "endDate": "2016-09-24",
+      "score": "4.12",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Master",
+        "keywords": [
+          ""
+        ]
+      },{
+        "name": "FastAPI/Django",
+        "level": "Master",
+        "keywords": [
+          ""
+        ]
+      },{
+        "name": "PHP",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },{
+        "name": "Laravel",
+        "level": "Master",
+        "keywords": [
+          ""
+        ]
+      },{
+        "name": "JavaScript/TypeScript",
+        "level": "Master",
+        "keywords": [
+          ""
+        ]
+      },{
+        "name": "SQL",
+        "level": "Master",
+        "keywords": [
+          ""
+        ]
+      },{
+        "name": "Git",
+        "level": "Master",
+        "keywords": [
+          ""
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker",
+        "certificate": ""
+      },{
+        "language": "English",
+        "fluency": "B2",
+        "certificate": "https://certificates.ecenglish.com/7ac6812d-6b73-430b-b7b0-73207e233f57#gs.5344z2"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Agroresiliencia Sucre",
+        "startDate": "2020-10-10",
+        "endDate": "2021-04-16",
+        "description": "Application to support the management of content related to the agroecosystem resilience project in Sucre, Colombia.",
+        "highlights": ["React"],
+        "url": "http://agroresilienciasucre.com",
+        "isActive": false,
+        "urlActive": false
+      },
+      {
+        "name": "Ecosembrando",
+        "startDate": "2021-02-09",
+        "endDate": "2021-05-15",
+        "description": "An information system for content administration related to the polyculture farming project in Norte de Santander, Colombia.",
+        "highlights": ["PHP","Laravel","VueJS"],
+        "url": "http://ecosembrando.nortedesantander.gov.co/login",
+        "isActive": false,
+        "urlActive": true
+      },
+      {
+        "name": "Boyacá Agro",
+        "startDate": "2021-10-05",
+        "endDate": "2022-07-15",
+        "description": "An information system for content administration related to the polyculture farming project in Boyacá, Colombia.",
+        "highlights": ["PHP","Laravel","VueJS"],
+        "url": "http://policultivos.boyaca.gov.co:8013",
+        "isActive": false,
+        "urlActive": false
+      },      
+      {
+        "name": "Vive Norte de Santander",
+        "startDate": "2022-05-01",
+        "endDate": "2022-12-15",
+        "description": "Platform to encourage tourism in the department of Norte de Santander, providing information on historical sites and routes in addition to events of interest.",
+        "highlights": ["Python","FastAPI"],
+        "url": "https://vivenortedesantander.com.co/",
+        "isActive": false,
+        "urlActive": true
+      },
+      {
+        "name": "Projecto Monitoreo",
+        "startDate": "2022-08-01",
+        "endDate": "2023-03-16",
+        "description": "PWA for the registration of visits and evaluations to properties and technicians that are part of the projects in execution, with offline operation and visits' geolocation.",
+        "highlights": ["PHP","Laravel","VueJS"],
+        "url": "https://proyectomonitoreo.com/",
+        "isActive": false,
+        "urlActive": true
+      },
+      {
+        "name": "Acuicultura Norte de Santander",
+        "startDate": "2023-01-04",
+        "endDate": "2023-10-31",
+        "description": "Platform for the administration of information collected in the objectives of the aquaculture project in Norte de Santander, Colombia.",
+        "highlights": ["Python","FastAPI","VueJS"],
+        "url": "http://acuicultura.nortedesantander.gov.co",
+        "isActive": false,
+        "urlActive": false
+      },
+      {
+        "name": "Gestión de riesgos",
+        "startDate": "2023-01-16",
+        "endDate": "2023-03-31",
+        "description": "Application to support citizen and risk management Office for case management and planning.",
+        "highlights": ["Python","FastAPI","VueJS"],
+        "url": "http://gestionderiesgos.nortedesantander.gov.co",
+        "isActive": false,
+        "urlActive": true
+      }
+    ]
+  }
